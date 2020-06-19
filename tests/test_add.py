@@ -1,6 +1,6 @@
 import os,sys
 sys.path.append(os.getcwd())
-from Assignment-1.add import *
+from solution.add import *
 import pytest
 
 @pytest.mark.parametrize('x,y,result',[
