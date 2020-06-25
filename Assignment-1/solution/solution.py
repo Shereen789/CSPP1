@@ -1,2 +1,2 @@
 def add(a,b):
-    return b + a+1-1
+    return b + a
