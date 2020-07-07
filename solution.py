@@ -5,8 +5,4 @@ def add(x,y):
 
 
 
-
-
-
-
 #helpie
